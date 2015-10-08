@@ -1,6 +1,5 @@
 //
 //  UIProgressView+AnimateDuration.h
-//  WEAR
 //
 //  Created by hirose yudai on 2015/07/09.
 //  Copyright (c) 2015年 Natural Style Co. Ltd. All rights reserved.
